@@ -23,8 +23,8 @@ Zayvera CORE is available for controlled enterprise pilots and strategic technol
 
 ## Learn more
 
-- Website: https://zayverasystems.com
-- Pilot inquiries: https://zayverasystems.com/request-pilot
+- Website: https://www.zayverasystems.com
+- Pilot inquiries: https://www.zayverasystems.com/request-pilot
 
 ---
 
