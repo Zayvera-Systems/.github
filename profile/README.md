@@ -19,8 +19,7 @@ preserving source provenance and investigation evidence.
 
 ## Product status
 
-Zayvera CORE is currently being developed for controlled enterprise
-pilots and strategic technology partnerships.
+Zayvera CORE is available for controlled enterprise pilots and strategic technology partnerships.
 
 ## Learn more
 
